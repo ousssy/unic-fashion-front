@@ -10,7 +10,7 @@ const Footer = () => {
           {/* Brand */}
           <div className="space-y-4">
             <div className="font-playfair text-3xl font-bold">
-              UNIC
+              LIMITLESS
             </div>
             <p className="text-primary-foreground/80 text-sm leading-relaxed">
               L'élégance masculine redéfinie. Des chemises premium pour l'homme moderne 
@@ -79,7 +79,7 @@ const Footer = () => {
         <div className="border-t border-primary-foreground/20 mt-12 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-sm text-primary-foreground/60">
-              © 2024 UNIC. Tous droits réservés.
+              © 2024 LIMITLESS. Tous droits réservés.
             </p>
             <p className="text-sm text-primary-foreground/60 flex items-center gap-1">
               Fait avec <Heart size={14} className="text-red-400" /> au Maroc

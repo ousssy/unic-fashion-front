@@ -127,8 +127,8 @@ const ContactSection = () => {
                     </div>
                     <div>
                       <h4 className="font-semibold">Email</h4>
-                      <p className="text-muted-foreground">contact@unic.ma</p>
-                      <p className="text-muted-foreground">commandes@unic.ma</p>
+                      <p className="text-muted-foreground">contact@limitless.ma</p>
+                      <p className="text-muted-foreground">commandes@limitless.ma</p>
                     </div>
                   </div>
                   

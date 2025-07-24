@@ -27,7 +27,7 @@ const ProductSection = () => {
             <div className="aspect-[4/5] rounded-2xl overflow-hidden bg-secondary">
               <img 
                 src={images[selectedImage]} 
-                alt="Chemise UNIC" 
+                alt="Chemise LIMITLESS" 
                 className="w-full h-full object-cover transition-all duration-500"
               />
             </div>
