@@ -138,8 +138,9 @@ const ContactSection = () => {
                     </div>
                     <div>
                       <h4 className="font-semibold">Téléphone</h4>
-                      <p className="text-muted-foreground">+212 6 XX XX XX XX</p>
-                      <p className="text-sm text-muted-foreground">Lun-Ven: 9h-18h</p>
+                      <p className="text-muted-foreground">+212 6 00 00 00 00</p>
+                      <p className="text-muted-foreground">+212 5 22 00 00 00</p>
+                      <p className="text-sm text-muted-foreground">Lun-Sam: 9h-19h</p>
                     </div>
                   </div>
                   
@@ -149,7 +150,19 @@ const ContactSection = () => {
                     </div>
                     <div>
                       <h4 className="font-semibold">Adresse</h4>
-                      <p className="text-muted-foreground">Casablanca, Maroc</p>
+                      <p className="text-muted-foreground">Boulevard Mohammed V</p>
+                      <p className="text-muted-foreground">Casablanca 20250, Maroc</p>
+                    </div>
+                  </div>
+
+                  <div className="flex items-start gap-4">
+                    <div className="w-12 h-12 bg-accent/20 rounded-full flex items-center justify-center flex-shrink-0">
+                      <MessageCircle className="text-accent" size={20} />
+                    </div>
+                    <div>
+                      <h4 className="font-semibold">WhatsApp</h4>
+                      <p className="text-muted-foreground">+212 6 00 00 00 00</p>
+                      <p className="text-sm text-muted-foreground">Réponse rapide 7j/7</p>
                     </div>
                   </div>
                 </div>
