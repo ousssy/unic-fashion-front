@@ -33,7 +33,7 @@ const ProductSection = () => {
             </div>
             
             {/* Thumbnail Gallery */}
-            <div className="grid grid-cols-5 gap-3">
+            <div className="grid grid-cols-4 gap-4">
               {images.map((image, index) => (
                 <button
                   key={index}
