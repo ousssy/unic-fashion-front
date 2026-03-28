@@ -11,7 +11,8 @@ const ProductSection = () => {
     "/lovable-uploads/14e005e7-62a3-44d1-8828-e5417439e464.png",
     "/lovable-uploads/dfca1fd1-f6a2-46da-b9c7-36096f5928f6.png",
     "/lovable-uploads/8120649d-c545-450e-ba3d-1c06eaabb806.png",
-    "/lovable-uploads/c094ca86-26c6-47bd-b428-73715aab673f.png"
+    "/lovable-uploads/c094ca86-26c6-47bd-b428-73715aab673f.png",
+    "/lovable-uploads/6ced0a9b-7191-4f47-92c0-c5913db63dc7.jpg"
   ];
 
   const sizes = ["S", "M", "L", "XL", "XXL"];
